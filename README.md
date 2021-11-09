@@ -31,3 +31,18 @@ Rodando no http://localhost:3000
 
 # Resultado
 
+Entrar com GitHub:
+
+<span>
+      <img src="https://user-images.githubusercontent.com/85804895/140954597-ad74a77f-1ed5-4270-81f3-6cbbe1643ec9.gif" width=900>
+</span>
+
+Criar mensagem, listar as últimas 3 e sair:
+
+<span>
+      <img src="https://user-images.githubusercontent.com/85804895/140954944-e0285bb4-eced-4d92-afa8-17e3971e3da0.gif" width=900>
+</span>
+
+# Agradecimentos
+
+NWL Heat Rockseat 🚀🚀🚀
